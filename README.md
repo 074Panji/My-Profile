@@ -93,6 +93,6 @@ Saya masih belajar dan terus meningkatkan kemampuan lewat project, tugas, organi
 ---
 
 <p align="center">
-  🍀 <b>P1 — Pemrograman Platform</b> 🍀<br>
+  🍀 <b>Pemrograman Platform</b> 🍀<br>
   <i>Surpass your limits.</i>
 </p>
