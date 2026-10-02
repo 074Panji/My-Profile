@@ -87,7 +87,7 @@ Saya masih belajar dan terus meningkatkan kemampuan lewat project, tugas, organi
 ## 🔗 Tautan
 
 - 🌐 My Profile: https://074Panji.github.io/My-Profile/biodata/
-- 🎬 Video P1: [segera hadir](https://youtu.be/i7zDPnNWpwY)
+- 🎬 Video: [Tugas video](https://youtu.be/i7zDPnNWpwY)
 - 💻 [GitHub](https://github.com/074Panji)
 
 ---
